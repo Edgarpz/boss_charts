@@ -3,3 +3,47 @@
   width: 120px;
   margin: 1.5rem auto;
 }
+
+.data_summary {
+  width: 100%;
+  height: auto;
+}
+
+.data_option_row {
+  height: 4rem;
+  width: 100%;
+  background-color: rgba(0,0,0,0.3);
+
+  .option_row_btn {
+    width: 50%;
+    display: inline-block;
+    height: 100%;
+  }
+}
+
+.long_block {
+  height: 8rem;
+  width: 95%;
+  background-color: rgba(0,0,0,0.3);
+  display: inline-block;
+  border-radius: 0.5rem;
+  margin-top: 1rem;
+  color: #fff;
+}
+
+.short_block {
+  height: 8rem;
+  width: 40%;
+  background-color: rgba(0,0,0,0.3);
+  display: inline-block;
+  border-radius: 0.5rem;
+  margin: 1rem 1rem 1rem 0;
+  color: #fff;
+}
+
+.blue_background {
+  background-color: deepskyblue;
+}
+.darkolivegreen_background {
+  background-color: darkolivegreen;
+}
